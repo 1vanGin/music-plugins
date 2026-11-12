@@ -535,6 +535,29 @@
       "version": "1.0.1"
     },
     {
+      "key": "vst3-91f453038400ad088694",
+      "name": "bloom",
+      "displayName": "bloom",
+      "publisher": "oeksound",
+      "manufacturer": "oeksound",
+      "searchTerms": [
+        "oeksound"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Адаптивная коррекция тонального баланса. Анализирует сигнал и динамически усиливает или ослабляет частоты, чтобы приблизить звук к выбранному характеру.",
+      "source": "https://oeksound.com/plugins/bloom/",
+      "note": "",
+      "version": "1.1.2"
+    },
+    {
       "key": "Black Salt Audio - BSA Mix Bus",
       "name": "BSA Mix Bus",
       "displayName": "BSA Mix Bus",
@@ -1638,7 +1661,31 @@
       "description": "Мастеринговый clipper с дополнительной обработкой плотности GOLD и Alchemy.",
       "source": "https://www.schwabedigital.com/goldclip",
       "note": "",
-      "version": "1.4.1"
+      "version": "1.5.0"
+    },
+    {
+      "key": "vst3-0003b74eb4a6bc0a1523",
+      "name": "Gold Clip Track",
+      "displayName": "Gold Clip Track",
+      "publisher": "Schwabe Digital",
+      "manufacturer": "Schwabe Digital",
+      "searchTerms": [
+        "Schwabe Digital"
+      ],
+      "categories": [
+        "clip",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments"
+      ],
+      "description": "Клиппер с обработкой Gold для отдельных дорожек. Упрощённая версия Gold Clip с меньшей задержкой и нагрузкой на процессор.",
+      "source": "https://www.schwabedigital.com/sdu/gcp",
+      "note": "",
+      "version": "1.5.0"
     },
     {
       "key": "Humanoid",
@@ -4001,13 +4048,12 @@
       "version": "1.2"
     },
     {
-      "key": "soothe2",
-      "name": "soothe2",
-      "displayName": "soothe2",
+      "key": "vst3-43fdf79df7c762e62174",
+      "name": "soothe3",
+      "displayName": "soothe3",
       "publisher": "oeksound",
       "manufacturer": "oeksound",
       "searchTerms": [
-        "oeksound",
         "oeksound"
       ],
       "categories": [
@@ -4022,10 +4068,10 @@
         "bus",
         "master"
       ],
-      "description": "Динамический подавитель резонансов с внешним sidechain.",
-      "source": "https://oeksound.com/manuals/soothe2/",
+      "description": "Динамический подавитель резонансов. Автоматически находит и ослабляет резонансные пики, поддерживает внешний сайдчейн и регулировку точности обработки.",
+      "source": "https://oeksound.com/manuals/soothe3/",
       "note": "",
-      "version": "1.3.3"
+      "version": "1.0.5"
     },
     {
       "key": "SoundID Reference VST3 Plugin",
