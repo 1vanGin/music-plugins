@@ -1,0 +1,5248 @@
+{
+  "plugins": [
+    {
+      "key": "uaudio_ua_1176",
+      "name": "UADx 1176 FET Compressor",
+      "displayName": "1176 FET Compressor",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments"
+      ],
+      "description": "FET-компрессор 1176; точная ревизия - в названии плагина.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.0.3"
+    },
+    {
+      "key": "uaudio_610_a",
+      "name": "UADx 610-A Preamp and EQ",
+      "displayName": "610-A Preamp and EQ",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "sat",
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "instruments"
+      ],
+      "description": "Модель UADx 610-A / 610-B предусилителя и EQ.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.0.15"
+    },
+    {
+      "key": "uaudio_610_b",
+      "name": "UADx 610-B Preamp and EQ",
+      "displayName": "610-B Preamp and EQ",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "sat",
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "instruments"
+      ],
+      "description": "Модель UADx 610-A / 610-B предусилителя и EQ.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.0.15"
+    },
+    {
+      "key": "A-Class Vocal",
+      "name": "A-Class Vocal",
+      "displayName": "A-Class Vocal",
+      "publisher": "Bogren",
+      "manufacturer": "Bogren Digital",
+      "searchTerms": [
+        "Bogren",
+        "Bogren Digital"
+      ],
+      "categories": [
+        "strip",
+        "sat"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Комплексная обработка вокала с характером.",
+      "source": "https://bogrendigital.com/products/a-class-vocal",
+      "note": "По доступной странице подтверждены назначение и комплект; конкретные модели DSP здесь не утверждаются.",
+      "version": "1.0.1"
+    },
+    {
+      "key": "ADPTR Hype",
+      "name": "ADPTR Hype",
+      "displayName": "ADPTR Hype",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "ADPTR Audio",
+      "searchTerms": [
+        "Plugin Alliance",
+        "ADPTR Audio"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "sat",
+        "stereo"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Многополосные гармоники, динамика и ширина в одном процессоре.",
+      "source": "https://www.plugin-alliance.com/products/hype",
+      "note": "",
+      "version": "1.0.1"
+    },
+    {
+      "key": "ADPTR MetricAB",
+      "name": "ADPTR MetricAB",
+      "displayName": "ADPTR MetricAB",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "ADPTR Audio",
+      "searchTerms": [
+        "Plugin Alliance",
+        "ADPTR Audio"
+      ],
+      "categories": [
+        "monitor"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Референсный A/B-анализ спектра, динамики и стерео.",
+      "source": "https://www.plugin-alliance.com/products/metric-ab",
+      "note": "",
+      "version": "1.4.1"
+    },
+    {
+      "key": "AMEK EQ 200",
+      "name": "AMEK EQ 200",
+      "displayName": "AMEK EQ 200",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "AMEK",
+      "searchTerms": [
+        "Plugin Alliance",
+        "AMEK"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "bus",
+        "master",
+        "instruments"
+      ],
+      "description": "Окрашенный EQ для тонального баланса.",
+      "source": "https://www.plugin-alliance.com/products/eq-200",
+      "note": "",
+      "version": "1.4.1"
+    },
+    {
+      "key": "AMEK Mastering Compressor",
+      "name": "AMEK Mastering Compressor",
+      "displayName": "AMEK Mastering Compressor",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "AMEK",
+      "searchTerms": [
+        "Plugin Alliance",
+        "AMEK"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Компрессор для мастеринговой динамики.",
+      "source": "https://www.plugin-alliance.com/products/mastering-compressor",
+      "note": "",
+      "version": "1.1.1"
+    },
+    {
+      "key": "Atoms",
+      "name": "Atoms",
+      "displayName": "Atoms",
+      "publisher": "BABY Audio",
+      "manufacturer": "BABY Audio",
+      "searchTerms": [
+        "BABY Audio",
+        "BABY Audio"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments"
+      ],
+      "description": "Синтезатор на основе физического моделирования.",
+      "source": "https://babyaud.io/",
+      "note": "",
+      "version": "1.2"
+    },
+    {
+      "key": "Augmented BRASS",
+      "name": "Augmented BRASS",
+      "displayName": "Augmented BRASS",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments"
+      ],
+      "description": "Гибрид акустических сэмплов и синтеза: brass / woodwinds согласно названию.",
+      "source": "https://www.arturia.com/products/software-instruments/augmented-series/overview",
+      "note": "",
+      "version": "2.0.2.6369"
+    },
+    {
+      "key": "Augmented WOODWINDS",
+      "name": "Augmented WOODWINDS",
+      "displayName": "Augmented WOODWINDS",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments"
+      ],
+      "description": "Гибрид акустических сэмплов и синтеза: brass / woodwinds согласно названию.",
+      "source": "https://www.arturia.com/products/software-instruments/augmented-series/overview",
+      "note": "",
+      "version": "2.0.2.6369"
+    },
+    {
+      "key": "Aurora",
+      "name": "Aurora",
+      "displayName": "Aurora",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "verb",
+        "sc"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Алгоритмический reverb со спектральным unmasking сухого сигнала.",
+      "source": "https://shopify.izotope.com/community/blog/izotope-catalyst-series",
+      "note": "",
+      "version": "1.1.0"
+    },
+    {
+      "key": "Auto-Key",
+      "name": "Auto-Key 2",
+      "displayName": "Auto-Key 2",
+      "publisher": "Antares",
+      "manufacturer": "Antares",
+      "searchTerms": [
+        "Antares",
+        "Antares"
+      ],
+      "categories": [
+        "utility"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Определяет тональность, лад и темп по аудио и передаёт тональность в совместимые плагины AutoTune.",
+      "source": "https://antarestech.com/products/pitch-correction/auto-key",
+      "note": "",
+      "version": "2.6.0.84"
+    },
+    {
+      "key": "Auto-Tune EFX+",
+      "name": "Auto-Tune EFX+",
+      "displayName": "Auto-Tune EFX+",
+      "publisher": "Antares",
+      "manufacturer": "Antares",
+      "searchTerms": [
+        "Antares",
+        "Antares"
+      ],
+      "categories": [
+        "pitch",
+        "creative"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Коррекция высоты вокала в реальном времени и модульные вокальные эффекты.",
+      "source": "https://antarestech.com/products/creative-vocal-effects/efx-plus",
+      "note": "",
+      "version": "10.0.0"
+    },
+    {
+      "key": "Auto-Tune Pro",
+      "name": "Auto-Tune Pro",
+      "displayName": "Auto-Tune Pro",
+      "publisher": "Antares",
+      "manufacturer": "Antares",
+      "searchTerms": [
+        "Antares",
+        "Antares"
+      ],
+      "categories": [
+        "pitch"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Автоматическая и ручная коррекция высоты вокала.",
+      "source": "https://www.antarestech.com/products/auto-tune-pro",
+      "note": "",
+      "version": "11.0.0"
+    },
+    {
+      "key": "AutoTune",
+      "name": "AutoTune",
+      "displayName": "AutoTune",
+      "publisher": "Antares",
+      "manufacturer": "Antares",
+      "searchTerms": [
+        "Antares",
+        "Antares"
+      ],
+      "categories": [
+        "pitch"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Коррекция высоты вокала в реальном времени с настройкой скорости, Humanize и Flex Tune.",
+      "source": "https://www.antarestech.com/products/pitch-correction/at2026",
+      "note": "",
+      "version": "1.2.0.1349"
+    },
+    {
+      "key": "Axxess",
+      "name": "Axxess",
+      "displayName": "Axxess",
+      "publisher": "GForce",
+      "manufacturer": "GForce",
+      "searchTerms": [
+        "GForce",
+        "GForce"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "bass",
+        "instruments"
+      ],
+      "description": "Виртуально-аналоговый синтезатор на основе ARP Axxe с полифонией, унисоном и субосциллятором.",
+      "source": "https://www.gforcesoftware.com/product/axxess/",
+      "note": "",
+      "version": "1.1.1"
+    },
+    {
+      "key": "BA-1",
+      "name": "BA-1",
+      "displayName": "BA-1",
+      "publisher": "BABY Audio",
+      "manufacturer": "BABY Audio",
+      "searchTerms": [
+        "BABY Audio",
+        "BABY Audio"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments",
+        "bass"
+      ],
+      "description": "Синтезатор с ретро-характером.",
+      "source": "https://babyaud.io/",
+      "note": "",
+      "version": "1.7"
+    },
+    {
+      "key": "BA-1 FX Strip",
+      "name": "BA-1 FX Strip",
+      "displayName": "BA-1 FX Strip",
+      "publisher": "BABY Audio",
+      "manufacturer": "BABY Audio",
+      "searchTerms": [
+        "BABY Audio",
+        "BABY Audio"
+      ],
+      "categories": [
+        "creative",
+        "sat",
+        "mod"
+      ],
+      "uses": [
+        "instruments",
+        "vocal",
+        "drums"
+      ],
+      "description": "FX-цепочка из BA-1, отдельный эффект для аудио.",
+      "source": "https://babyaud.io/",
+      "note": "",
+      "version": "1.0"
+    },
+    {
+      "key": "Basslane Pro",
+      "name": "Basslane Pro",
+      "displayName": "Basslane Pro",
+      "publisher": "Tone Projects",
+      "manufacturer": "Tone Projects",
+      "searchTerms": [
+        "Tone Projects",
+        "Tone Projects"
+      ],
+      "categories": [
+        "stereo",
+        "sat"
+      ],
+      "uses": [
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Контроль низкочастотной ширины и создание гармонического объёма.",
+      "source": "https://www.toneprojects.com/download/Tone_Projects_Basslane_Pro_Manual.pdf",
+      "note": "",
+      "version": "1.0.7"
+    },
+    {
+      "key": "Black Box Analog Design HG-2",
+      "name": "Black Box Analog Design HG-2",
+      "displayName": "Black Box Analog Design HG-2",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Black Box Analog Design",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Black Box Analog Design"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Ламповая сатурация; MS-версия расширяет пространственный контроль.",
+      "source": "https://www.plugin-alliance.com/products/hg-2ms",
+      "note": "",
+      "version": "1.9.1"
+    },
+    {
+      "key": "Black Box Analog Design HG-2MS",
+      "name": "Black Box Analog Design HG-2MS",
+      "displayName": "Black Box Analog Design HG-2MS",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Black Box Analog Design",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Black Box Analog Design"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Ламповая сатурация; MS-версия расширяет пространственный контроль.",
+      "source": "https://www.plugin-alliance.com/products/hg-2ms",
+      "note": "",
+      "version": "1.3.1"
+    },
+    {
+      "key": "Black Box Analog Design HG-Q",
+      "name": "Black Box Analog Design HG-Q",
+      "displayName": "Black Box Analog Design HG-Q",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Black Box Analog Design",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Black Box Analog Design"
+      ],
+      "categories": [
+        "eq",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Моделированный аналоговый EQ с окраской.",
+      "source": "https://www.plugin-alliance.com/products/hg-q",
+      "note": "",
+      "version": "1.0.1"
+    },
+    {
+      "key": "Black Salt Audio - BSA Mix Bus",
+      "name": "BSA Mix Bus",
+      "displayName": "BSA Mix Bus",
+      "publisher": "Black Salt Audio",
+      "manufacturer": "Black Salt Audio",
+      "searchTerms": [
+        "Black Salt Audio",
+        "Black Salt Audio"
+      ],
+      "categories": [
+        "strip",
+        "eq",
+        "comp"
+      ],
+      "uses": [
+        "bus",
+        "master"
+      ],
+      "description": "Комплексная обработка mix bus; локальные категории - Dynamics / EQ / Mastering.",
+      "source": "https://www.blacksaltaudio.com/mix-bus/",
+      "note": "Назначение подтверждено; точный состав внутренних алгоритмов не подтверждён доступным текстом страницы.",
+      "version": "1.0.3"
+    },
+    {
+      "key": "Bus EXCITER-104",
+      "name": "Bus EXCITER-104",
+      "displayName": "Bus EXCITER-104",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Гармоническое возбуждение для яркости и присутствия.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.0.1.6566"
+    },
+    {
+      "key": "Bus PEAK",
+      "name": "Bus PEAK",
+      "displayName": "Bus PEAK",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "clip",
+        "limit"
+      ],
+      "uses": [
+        "bus",
+        "master",
+        "drums"
+      ],
+      "description": "Контроль пиков и выходной громкости шины.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.0.1.6566"
+    },
+    {
+      "key": "Bus TRANSIENT",
+      "name": "Bus TRANSIENT",
+      "displayName": "Bus TRANSIENT",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "transient"
+      ],
+      "uses": [
+        "drums",
+        "bus",
+        "instruments"
+      ],
+      "description": "Обработка атаки и сустейна.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.0.1.6566"
+    },
+    {
+      "key": "bx_boom V3",
+      "name": "bx_boom V3",
+      "displayName": "bx_boom V3",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Brainworx",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Brainworx"
+      ],
+      "categories": [
+        "eq",
+        "sat"
+      ],
+      "uses": [
+        "drums",
+        "bass",
+        "bus",
+        "master"
+      ],
+      "description": "Усиливает или ослабляет низ бочки и баса; есть насыщение Drive и поворот фазы для совмещения слоёв.",
+      "source": "https://www.plugin-alliance.com/products/bx_boom-v3",
+      "note": "",
+      "version": "3.0.0"
+    },
+    {
+      "key": "bx_console N",
+      "name": "bx_console N",
+      "displayName": "bx_console N",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Brainworx",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Brainworx"
+      ],
+      "categories": [
+        "strip",
+        "eq",
+        "comp",
+        "gate",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Аналоговый channel strip: 4-полосный EQ, фильтры, компрессор, gate и регулируемый гармонический окрас.",
+      "source": "https://www.plugin-alliance.com/products/bx_console-n",
+      "note": "",
+      "version": "1.10.1"
+    },
+    {
+      "key": "bx_console SSL 4000 E",
+      "name": "bx_console SSL 4000 E",
+      "displayName": "bx_console SSL 4000 E",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Brainworx",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Brainworx"
+      ],
+      "categories": [
+        "strip",
+        "eq",
+        "comp",
+        "sat",
+        "gate"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Эмуляция консольного channel strip с EQ и динамикой.",
+      "source": "https://www.plugin-alliance.com/en/products.html",
+      "note": "",
+      "version": "1.7.1"
+    },
+    {
+      "key": "bx_limiter True Peak",
+      "name": "bx_limiter True Peak",
+      "displayName": "bx_limiter True Peak",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Brainworx",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Brainworx"
+      ],
+      "categories": [
+        "limit"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Лимитер с true-peak-контролем.",
+      "source": "https://www.plugin-alliance.com/products/limiter-true-peak",
+      "note": "",
+      "version": "1.2.1"
+    },
+    {
+      "key": "bx_masterdesk",
+      "name": "bx_masterdesk",
+      "displayName": "bx_masterdesk",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Brainworx",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Brainworx"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "eq",
+        "limit",
+        "deess",
+        "stereo"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Компактная мастеринг-цепочка: тональный баланс, компрессия, лимитирование, de-esser и ширина стерео.",
+      "source": "https://www.plugin-alliance.com/products/bx_masterdesk",
+      "note": "",
+      "version": "1.8.0"
+    },
+    {
+      "key": "bx_refinement V3",
+      "name": "bx_refinement V3",
+      "displayName": "bx_refinement V3",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Brainworx",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Brainworx"
+      ],
+      "categories": [
+        "dyneq",
+        "sat",
+        "deess"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Смягчает резкость динамической обработкой частот; добавляет ламповый окрас, поддерживает M/S.",
+      "source": "https://www.plugin-alliance.com/products/bx_refinement-v3",
+      "note": "",
+      "version": "3.0.0"
+    },
+    {
+      "key": "Cascadia",
+      "name": "Cascadia",
+      "displayName": "Cascadia",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "delay",
+        "sc"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Delay со спектральным unmasking.",
+      "source": "https://shopify.izotope.com/community/blog/izotope-catalyst-series",
+      "note": "",
+      "version": "1.1.0"
+    },
+    {
+      "key": "uaudio_century_channel_strip",
+      "name": "UADx Century Tube Channel Strip",
+      "displayName": "Century Tube Channel Strip",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "strip",
+        "eq",
+        "comp",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "instruments"
+      ],
+      "description": "Ламповый channel strip Century: предусилитель, EQ и компрессия.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.0.16"
+    },
+    {
+      "key": "Chorus DIMENSION-D",
+      "name": "Chorus DIMENSION-D",
+      "displayName": "Chorus DIMENSION-D",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "mod",
+        "stereo"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Chorus с мягким расширением и плотностью.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.5.1.6566"
+    },
+    {
+      "key": "Chorus JUN-6",
+      "name": "Chorus JUN-6",
+      "displayName": "Chorus JUN-6",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "mod",
+        "stereo"
+      ],
+      "uses": [
+        "instruments",
+        "vocal"
+      ],
+      "description": "Chorus в стиле Juno.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.5.1.6566"
+    },
+    {
+      "key": "Clear",
+      "name": "Clear",
+      "displayName": "Clear",
+      "publisher": "Supertone",
+      "manufacturer": "Supertone",
+      "searchTerms": [
+        "Supertone",
+        "Supertone"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Раздельный контроль голоса, фоновой среды и голосовой реверберации.",
+      "source": "https://antinodeaudio.com/clear",
+      "note": "",
+      "version": "1.1.1"
+    },
+    {
+      "key": "Comp DIODE-609",
+      "name": "Comp DIODE-609",
+      "displayName": "Comp DIODE-609",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "bus",
+        "master",
+        "drums"
+      ],
+      "description": "Диодная компрессия с аналоговым характером.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.4.1.6566"
+    },
+    {
+      "key": "Crystalline",
+      "name": "Crystalline",
+      "displayName": "Crystalline",
+      "publisher": "BABY Audio",
+      "manufacturer": "BABY Audio",
+      "searchTerms": [
+        "BABY Audio",
+        "BABY Audio"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Современная алгоритмическая реверберация.",
+      "source": "https://babyaud.io/",
+      "note": "",
+      "version": "1.8"
+    },
+    {
+      "key": "DB-30 Drum Butter",
+      "name": "DB-30 Drum Butter",
+      "displayName": "DB-30 Drum Butter",
+      "publisher": "XLN Audio",
+      "manufacturer": "XLN Audio",
+      "searchTerms": [
+        "XLN Audio",
+        "XLN Audio"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "sat",
+        "creative"
+      ],
+      "uses": [
+        "drums",
+        "bus"
+      ],
+      "description": "Комплекс барабанных FX: вес, сдвиг тембра, пространство, динамика и сатурация.",
+      "source": "https://www.xlnaudio.com/products/addictive_fx/effect/db-30_drum_butter",
+      "note": "",
+      "version": "1.1.3"
+    },
+    {
+      "key": "Delay BRIGADE",
+      "name": "Delay BRIGADE",
+      "displayName": "Delay BRIGADE",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "delay"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "BBD-эхо с аналоговым характером.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.7.1.6566"
+    },
+    {
+      "key": "Delay ETERNITY",
+      "name": "Delay ETERNITY",
+      "displayName": "Delay ETERNITY",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "delay",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Цифровой delay для гибких и необычных повторов.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.7.1.6566"
+    },
+    {
+      "key": "Delay TAPE-201",
+      "name": "Delay TAPE-201",
+      "displayName": "Delay TAPE-201",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "delay",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Ленточное эхо в духе Space Echo.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.7.1.6566"
+    },
+    {
+      "key": "Accentize-DeRoomPro2",
+      "name": "DeRoom Pro 2",
+      "displayName": "DeRoom Pro 2",
+      "publisher": "accentize",
+      "manufacturer": "Accentize",
+      "searchTerms": [
+        "accentize",
+        "Accentize"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Подавление записанной комнаты и реверберации.",
+      "source": "https://www.accentize.com/deroom-pro/",
+      "note": "",
+      "version": "2.0.7"
+    },
+    {
+      "key": "Devil-Loc",
+      "name": "Devil-Loc",
+      "displayName": "Devil-Loc",
+      "publisher": "Soundtoys",
+      "manufacturer": "Soundtoys",
+      "searchTerms": [
+        "Soundtoys",
+        "Soundtoys"
+      ],
+      "categories": [
+        "comp",
+        "dist"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Агрессивное сжатие и distortion.",
+      "source": "https://www.soundtoys.com/product/devil-loc/",
+      "note": "",
+      "version": "5.5.5.19885"
+    },
+    {
+      "key": "Dist COLDFIRE",
+      "name": "Dist COLDFIRE",
+      "displayName": "Dist COLDFIRE",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "dist",
+        "sat",
+        "creative"
+      ],
+      "uses": [
+        "bass",
+        "drums",
+        "instruments",
+        "vocal"
+      ],
+      "description": "Многорежимная creative distortion.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.2.1.6566"
+    },
+    {
+      "key": "Dist OPAMP-21",
+      "name": "Dist OPAMP-21",
+      "displayName": "Dist OPAMP-21",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "dist",
+        "sat"
+      ],
+      "uses": [
+        "instruments",
+        "bass",
+        "vocal"
+      ],
+      "description": "Окрашенное искажение на основе аналогового усилительного тракта.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.2.1.6566"
+    },
+    {
+      "key": "Dist TUBE-CULTURE",
+      "name": "Dist TUBE-CULTURE",
+      "displayName": "Dist TUBE-CULTURE",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "dist",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "drums",
+        "instruments",
+        "bus"
+      ],
+      "description": "Ламповое искажение / насыщение.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.2.1.6566"
+    },
+    {
+      "key": "DNATrackPurifier",
+      "name": "DNA Track Purifier",
+      "displayName": "DNA Track Purifier",
+      "publisher": "Mike Sorrentino Music Production",
+      "manufacturer": "Mike Sorrentino Music Production",
+      "searchTerms": [
+        "Mike Sorrentino Music Production",
+        "Mike Sorrentino Music Production"
+      ],
+      "categories": [
+        "sc"
+      ],
+      "uses": [
+        "bass",
+        "vocal",
+        "instruments",
+        "bus"
+      ],
+      "description": "Динамически освобождает частоты по внешнему sidechain.",
+      "source": "https://www.mike-sorrentino.com/plugins/dnatrackpurifier",
+      "note": "Локальный пакет не обозначен PRO. Не приписывай ему регулируемые attack/release PRO-версии без проверки UI.",
+      "version": "1.0.4"
+    },
+    {
+      "key": "DS-10 Drum Shaper",
+      "name": "DS-10 Drum Shaper",
+      "displayName": "DS-10 Drum Shaper",
+      "publisher": "XLN Audio",
+      "manufacturer": "XLN Audio",
+      "searchTerms": [
+        "XLN Audio",
+        "XLN Audio"
+      ],
+      "categories": [
+        "transient"
+      ],
+      "uses": [
+        "drums",
+        "bus"
+      ],
+      "description": "Transient shaper для барабанных атак и хвостов.",
+      "source": "https://www.xlnaudio.com/products/addictive_fx/effect/ds-10_drum_shaper",
+      "note": "",
+      "version": "1.3.7"
+    },
+    {
+      "key": "EchoBoyJr",
+      "name": "EchoBoy Junior",
+      "displayName": "EchoBoy Junior",
+      "publisher": "Soundtoys",
+      "manufacturer": "Soundtoys",
+      "searchTerms": [
+        "Soundtoys",
+        "Soundtoys"
+      ],
+      "categories": [
+        "delay"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Delay с характером EchoBoy в упрощённом интерфейсе.",
+      "source": "https://www.soundtoys.com/product/echoboy-jr/",
+      "note": "",
+      "version": "5.5.5.19885"
+    },
+    {
+      "key": "Efx AMBIENT",
+      "name": "Efx AMBIENT",
+      "displayName": "Efx AMBIENT",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "creative",
+        "verb"
+      ],
+      "uses": [
+        "instruments",
+        "vocal"
+      ],
+      "description": "Процессор для превращения источника в атмосферную фактуру.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.0.0.6577"
+    },
+    {
+      "key": "Efx FRAGMENTS",
+      "name": "Efx FRAGMENTS",
+      "displayName": "Efx FRAGMENTS",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "creative"
+      ],
+      "uses": [
+        "instruments",
+        "vocal",
+        "drums"
+      ],
+      "description": "Гранулярная переработка аудио.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.3.1.6566"
+    },
+    {
+      "key": "Efx MOTIONS",
+      "name": "Efx MOTIONS",
+      "displayName": "Efx MOTIONS",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "creative",
+        "mod"
+      ],
+      "uses": [
+        "instruments",
+        "drums",
+        "vocal"
+      ],
+      "description": "Ритмическая creative FX-обработка и движение.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.1.1.6566"
+    },
+    {
+      "key": "Efx REFRACT",
+      "name": "Efx REFRACT",
+      "displayName": "Efx REFRACT",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "creative",
+        "mod",
+        "stereo"
+      ],
+      "uses": [
+        "instruments",
+        "vocal"
+      ],
+      "description": "Creative FX для расширения и изменения фактуры.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.1.1.6566"
+    },
+    {
+      "key": "elysia alpha master",
+      "name": "elysia alpha master",
+      "displayName": "elysia alpha master",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "elysia",
+      "searchTerms": [
+        "Plugin Alliance",
+        "elysia"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Компрессор для тонкого контроля мастеринговой динамики.",
+      "source": "https://www.plugin-alliance.com/products/alpha-compressor",
+      "note": "",
+      "version": "1.17.1"
+    },
+    {
+      "key": "EQ SITRAL-295",
+      "name": "EQ SITRAL-295",
+      "displayName": "EQ SITRAL-295",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Окрашенный EQ для широкого изменения тембра.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.4.1.6566"
+    },
+    {
+      "key": "FASTERMASTER",
+      "name": "FASTER MASTER",
+      "displayName": "FASTER MASTER",
+      "publisher": "Mastering the Mix",
+      "manufacturer": "Mastering The Mix",
+      "searchTerms": [
+        "Mastering the Mix",
+        "Mastering The Mix"
+      ],
+      "categories": [
+        "strip",
+        "eq",
+        "comp",
+        "limit",
+        "stereo"
+      ],
+      "uses": [
+        "master"
+      ],
+      "description": "Анализируемая цепочка мастеринга с умными пресетами.",
+      "source": "https://www.masteringthemix.com/pages/fastermaster-manual",
+      "note": "",
+      "version": "1.0.9"
+    },
+    {
+      "key": "Filter M12",
+      "name": "Filter M12",
+      "displayName": "Filter M12",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "creative",
+        "eq"
+      ],
+      "uses": [
+        "instruments",
+        "drums",
+        "vocal"
+      ],
+      "description": "Моделированный музыкальный фильтр.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.8.1.6566"
+    },
+    {
+      "key": "Filter MINI",
+      "name": "Filter MINI",
+      "displayName": "Filter MINI",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "creative",
+        "eq"
+      ],
+      "uses": [
+        "instruments",
+        "drums",
+        "vocal"
+      ],
+      "description": "Моделированный музыкальный фильтр.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.9.1.6566"
+    },
+    {
+      "key": "Filter MS-20",
+      "name": "Filter MS-20",
+      "displayName": "Filter MS-20",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "creative",
+        "eq"
+      ],
+      "uses": [
+        "instruments",
+        "drums",
+        "vocal"
+      ],
+      "description": "Моделированный музыкальный фильтр.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.2.1.6566"
+    },
+    {
+      "key": "Filter SEM",
+      "name": "Filter SEM",
+      "displayName": "Filter SEM",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "creative",
+        "eq"
+      ],
+      "uses": [
+        "instruments",
+        "drums",
+        "vocal"
+      ],
+      "description": "Моделированный музыкальный фильтр.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.8.1.6566"
+    },
+    {
+      "key": "Fixate Midrange",
+      "name": "Fixate Midrange",
+      "displayName": "Fixate Midrange",
+      "publisher": "Newfangled Audio",
+      "manufacturer": "Newfangled Audio",
+      "searchTerms": [
+        "Newfangled Audio",
+        "Newfangled Audio"
+      ],
+      "categories": [
+        "dyneq",
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Анализ и коррекция проблем середины: резонансы и тональный баланс.",
+      "source": "https://www.eventideaudio.com/plug-ins/fixate-midrange/",
+      "note": "",
+      "version": "1.0.0"
+    },
+    {
+      "key": "Flanger BL-20",
+      "name": "Flanger BL-20",
+      "displayName": "Flanger BL-20",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "mod",
+        "creative"
+      ],
+      "uses": [
+        "instruments",
+        "vocal"
+      ],
+      "description": "Движение тембра: flanger, phaser или вращающийся кабинет, согласно названию.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.5.1.6566"
+    },
+    {
+      "key": "Fresh Air",
+      "name": "Fresh Air",
+      "displayName": "Fresh Air",
+      "publisher": "Slate Digital",
+      "manufacturer": "Slate Digital",
+      "searchTerms": [
+        "Slate Digital",
+        "Slate Digital"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus"
+      ],
+      "description": "Высокочастотный enhancer / exciter.",
+      "source": "https://slatedigital.com/fresh-air/",
+      "note": "",
+      "version": "1.1.7"
+    },
+    {
+      "key": "FUSER",
+      "name": "FUSER",
+      "displayName": "FUSER",
+      "publisher": "Mastering the Mix",
+      "manufacturer": "Mastering The Mix",
+      "searchTerms": [
+        "Mastering the Mix",
+        "Mastering The Mix"
+      ],
+      "categories": [
+        "sc",
+        "dyneq"
+      ],
+      "uses": [
+        "bass",
+        "vocal",
+        "instruments",
+        "bus"
+      ],
+      "description": "Поиск частотных конфликтов, динамические узлы и анализ фазового взаимодействия.",
+      "source": "https://www.masteringthemix.com/products/fuser",
+      "note": "",
+      "version": "1.0.6"
+    },
+    {
+      "key": "FXEQ",
+      "name": "FXEQ",
+      "displayName": "FXEQ",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "creative",
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums",
+        "bus"
+      ],
+      "description": "Multi-FX, управляемый через интерфейс EQ: эффекты в выбранных частотах.",
+      "source": "https://shopify.izotope.com/community/blog/izotope-catalyst-series",
+      "note": "",
+      "version": "1.0.0"
+    },
+    {
+      "key": "Gold Clip",
+      "name": "Gold Clip",
+      "displayName": "Gold Clip",
+      "publisher": "Schwabe Digital",
+      "manufacturer": "Schwabe Digital",
+      "searchTerms": [
+        "Schwabe Digital",
+        "Schwabe Digital"
+      ],
+      "categories": [
+        "clip",
+        "sat"
+      ],
+      "uses": [
+        "drums",
+        "bus",
+        "master"
+      ],
+      "description": "Мастеринговый clipper с дополнительной обработкой плотности GOLD и Alchemy.",
+      "source": "https://www.schwabedigital.com/goldclip",
+      "note": "",
+      "version": "1.4.1"
+    },
+    {
+      "key": "Humanoid",
+      "name": "Humanoid",
+      "displayName": "Humanoid",
+      "publisher": "BABY Audio",
+      "manufacturer": "BABY Audio",
+      "searchTerms": [
+        "BABY Audio",
+        "BABY Audio"
+      ],
+      "categories": [
+        "pitch",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Creative vocal pitch-обработка и роботизированный тембр.",
+      "source": "https://babyaud.io/",
+      "note": "",
+      "version": "1.2.2"
+    },
+    {
+      "key": "IHNY-2",
+      "name": "IHNY-2",
+      "displayName": "IHNY-2",
+      "publisher": "BABY Audio",
+      "manufacturer": "BABY Audio",
+      "searchTerms": [
+        "BABY Audio",
+        "BABY Audio"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "drums",
+        "bus",
+        "vocal"
+      ],
+      "description": "Компрессор с акцентом на параллельную динамику.",
+      "source": "https://babyaud.io/",
+      "note": "",
+      "version": "1.5"
+    },
+    {
+      "key": "Kelvin",
+      "name": "Kelvin",
+      "displayName": "Kelvin",
+      "publisher": "Tone Projects",
+      "manufacturer": "Tone Projects",
+      "searchTerms": [
+        "Tone Projects",
+        "Tone Projects"
+      ],
+      "categories": [
+        "sat",
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "drums",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Двухступенчатое насыщение с тональным формированием.",
+      "source": "https://www.toneprojects.com/kelvin-tone-shaper.html",
+      "note": "",
+      "version": "1.5.5"
+    },
+    {
+      "key": "Kiive XTComp",
+      "name": "Kiive XTComp",
+      "displayName": "Kiive XTComp",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Kiive Audio",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Kiive Audio"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "bus"
+      ],
+      "description": "Окрашенный компрессор для контроля, плотности и удара.",
+      "source": "https://www.plugin-alliance.com/en/products.html",
+      "note": "",
+      "version": "1.0.0"
+    },
+    {
+      "key": "Kontakt 8",
+      "name": "Kontakt 8",
+      "displayName": "Kontakt 8",
+      "publisher": "Native Instruments",
+      "manufacturer": "Native Instruments",
+      "searchTerms": [
+        "Native Instruments",
+        "Native Instruments"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments",
+        "drums",
+        "bass"
+      ],
+      "description": "Сэмплер и среда для инструментальных библиотек.",
+      "source": "https://www.native-instruments.com/en/products/komplete/samplers/kontakt-8/",
+      "note": "",
+      "version": "8.6.0"
+    },
+    {
+      "key": "uaudio_teletronix_la-2a_tc",
+      "name": "UADx LA-2A Tube Compressor",
+      "displayName": "LA-2A Tube Compressor",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "instruments"
+      ],
+      "description": "Оптический ламповый компрессор LA-2A.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.0.8"
+    },
+    {
+      "key": "LEVELS",
+      "name": "LEVELS",
+      "displayName": "LEVELS",
+      "publisher": "Mastering the Mix",
+      "manufacturer": "Mastering The Mix",
+      "searchTerms": [
+        "Mastering the Mix",
+        "Mastering The Mix"
+      ],
+      "categories": [
+        "monitor"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Проверка уровней, loudness, динамики и стерео-показателей.",
+      "source": "https://www.masteringthemix.com/products/levels",
+      "note": "",
+      "version": "2.0.7"
+    },
+    {
+      "key": "Lindell 69 Buss",
+      "name": "Lindell 69 Buss",
+      "displayName": "Lindell 69 Buss",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Lindell Audio",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Lindell Audio"
+      ],
+      "categories": [
+        "strip",
+        "eq",
+        "comp",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Консольная обработка канала / шины серии 69.",
+      "source": "https://www.plugin-alliance.com/products/69-series",
+      "note": "",
+      "version": "1.0.0"
+    },
+    {
+      "key": "Lindell 69 Channel",
+      "name": "Lindell 69 Channel",
+      "displayName": "Lindell 69 Channel",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Lindell Audio",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Lindell Audio"
+      ],
+      "categories": [
+        "strip",
+        "eq",
+        "comp",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Консольная обработка канала / шины серии 69.",
+      "source": "https://www.plugin-alliance.com/products/69-series",
+      "note": "",
+      "version": "1.0.0"
+    },
+    {
+      "key": "Lindell MBC",
+      "name": "Lindell MBC",
+      "displayName": "Lindell MBC",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Lindell Audio",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Lindell Audio"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "bass",
+        "drums",
+        "bus",
+        "master"
+      ],
+      "description": "Многополосный компрессор с аналоговым характером.",
+      "source": "https://www.plugin-alliance.com/products/mbc",
+      "note": "",
+      "version": "1.0.3"
+    },
+    {
+      "key": "LittleMicroShift",
+      "name": "Little MicroShift",
+      "displayName": "Little MicroShift",
+      "publisher": "Soundtoys",
+      "manufacturer": "Soundtoys",
+      "searchTerms": [
+        "Soundtoys",
+        "Soundtoys"
+      ],
+      "categories": [
+        "mod",
+        "stereo"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Micro-pitch widening / doubling.",
+      "source": "https://www.soundtoys.com/product/little-microshift/",
+      "note": "",
+      "version": "5.5.5.19885"
+    },
+    {
+      "key": "LittlePlate",
+      "name": "Little Plate",
+      "displayName": "Little Plate",
+      "publisher": "Soundtoys",
+      "manufacturer": "Soundtoys",
+      "searchTerms": [
+        "Soundtoys",
+        "Soundtoys"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Plate reverb с простым управлением.",
+      "source": "https://www.soundtoys.com/product/little-plate/",
+      "note": "",
+      "version": "5.5.5.19885"
+    },
+    {
+      "key": "LittlePrimalTap",
+      "name": "Little PrimalTap",
+      "displayName": "Little PrimalTap",
+      "publisher": "Soundtoys",
+      "manufacturer": "Soundtoys",
+      "searchTerms": [
+        "Soundtoys",
+        "Soundtoys"
+      ],
+      "categories": [
+        "delay",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Ретро-delay с необычной манипуляцией повторов.",
+      "source": "https://www.soundtoys.com/product/little-primaltap/",
+      "note": "",
+      "version": "5.5.5.19885"
+    },
+    {
+      "key": "LittleRadiator",
+      "name": "Little Radiator",
+      "displayName": "Little Radiator",
+      "publisher": "Soundtoys",
+      "manufacturer": "Soundtoys",
+      "searchTerms": [
+        "Soundtoys",
+        "Soundtoys"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Винтажное предусилительное насыщение.",
+      "source": "https://www.soundtoys.com/product/little-radiator/",
+      "note": "",
+      "version": "5.5.5.19885"
+    },
+    {
+      "key": "Low Control",
+      "name": "Low Control",
+      "displayName": "Low Control",
+      "publisher": "Black Salt Audio",
+      "manufacturer": "Black Salt Audio",
+      "searchTerms": [
+        "Black Salt Audio",
+        "Black Salt Audio"
+      ],
+      "categories": [
+        "comp",
+        "sat"
+      ],
+      "uses": [
+        "bass",
+        "drums",
+        "bus",
+        "master"
+      ],
+      "description": "Компрессор и генератор гармоник для контроля и усиления низких частот.",
+      "source": "https://www.blacksaltaudio.com/low-control/",
+      "note": "",
+      "version": "1.3.2"
+    },
+    {
+      "key": "Maag EQ4",
+      "name": "Maag EQ4",
+      "displayName": "Maag EQ4",
+      "publisher": "Plugin Alliance",
+      "manufacturer": "Mäag Audio",
+      "searchTerms": [
+        "Plugin Alliance",
+        "Mäag Audio"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Музыкальный EQ с Air Band.",
+      "source": "https://www.plugin-alliance.com/products/eq4",
+      "note": "",
+      "version": "1.15.1"
+    },
+    {
+      "key": "Melodyne",
+      "name": "Melodyne",
+      "displayName": "Melodyne",
+      "publisher": "Celemony",
+      "manufacturer": "Celemony",
+      "searchTerms": [
+        "Celemony",
+        "Celemony"
+      ],
+      "categories": [
+        "pitch"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Редактирование высоты, длительности и интонации нот.",
+      "source": "https://www.celemony.com/en/melodyne/what-is-melodyne",
+      "note": "",
+      "version": "5.4.2"
+    },
+    {
+      "key": "Michelangelo",
+      "name": "Michelangelo",
+      "displayName": "Michelangelo",
+      "publisher": "Tone Projects",
+      "manufacturer": "Tone Projects",
+      "searchTerms": [
+        "Tone Projects",
+        "Tone Projects"
+      ],
+      "categories": [
+        "eq",
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Окрашенный EQ на основе Hendyamps Michelangelo.",
+      "source": "https://www.toneprojects.com/michelangelo.html",
+      "note": "",
+      "version": "1.0.4"
+    },
+    {
+      "key": "MiniFreak V",
+      "name": "MiniFreak V",
+      "displayName": "MiniFreak V",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments",
+        "bass"
+      ],
+      "description": "Гибридный синтезатор MiniFreak в программном виде.",
+      "source": "https://www.arturia.com/products/software-instruments/minifreak-v/overview",
+      "note": "",
+      "version": "5.0.1.5869"
+    },
+    {
+      "key": "Mix DRUMS",
+      "name": "Mix DRUMS",
+      "displayName": "Mix DRUMS",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "sat",
+        "transient"
+      ],
+      "uses": [
+        "drums",
+        "bus"
+      ],
+      "description": "Комплексный процессор барабанов для удара, веса и характера.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.0.1.6566"
+    },
+    {
+      "key": "MIXROOM",
+      "name": "MIXROOM",
+      "displayName": "MIXROOM",
+      "publisher": "Mastering the Mix",
+      "manufacturer": "Mastering The Mix",
+      "searchTerms": [
+        "Mastering the Mix",
+        "Mastering The Mix"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "EQ для тонального баланса середины и верха.",
+      "source": "https://www.masteringthemix.com/products/mixroom",
+      "note": "",
+      "version": "1.1.6"
+    },
+    {
+      "key": "Canvas Audio - Monarch Tape Machine",
+      "name": "Monarch Tape Machine",
+      "displayName": "Monarch Tape Machine",
+      "publisher": "Canvas Audio",
+      "manufacturer": "Canvas Audio",
+      "searchTerms": [
+        "Canvas Audio",
+        "Canvas Audio"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Tape-сатурация: гармоники, мягкая компрессия и смягчение транзиентов.",
+      "source": "https://www.canvasaudio.net/plugins/monarch-tape-machine",
+      "note": "",
+      "version": "1.0.2"
+    },
+    {
+      "key": "MSED",
+      "name": "MSED",
+      "displayName": "MSED",
+      "publisher": "Voxengo",
+      "manufacturer": "Voxengo",
+      "searchTerms": [
+        "Voxengo",
+        "Voxengo"
+      ],
+      "categories": [
+        "stereo",
+        "utility"
+      ],
+      "uses": [
+        "instruments",
+        "vocal",
+        "bus",
+        "master"
+      ],
+      "description": "Mid/Side encoder/decoder и управление M/S-уровнями.",
+      "source": "https://www.voxengo.com/product/msed/",
+      "note": "",
+      "version": "3.12"
+    },
+    {
+      "key": "Ozone 12",
+      "name": "Ozone 12",
+      "displayName": "Ozone 12",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "strip",
+        "eq",
+        "comp",
+        "limit",
+        "stereo"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Полная модульная цепочка мастеринга.",
+      "source": "https://docs.izotope.com/ozone12/en/index-en.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Bass Control",
+      "name": "Ozone 12 Bass Control",
+      "displayName": "Ozone 12 Bass Control",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "comp",
+        "transient"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Управление балансом и ударом басовой области.",
+      "source": "https://docs.izotope.com/ozone12/en/bass-control.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Clarity",
+      "name": "Ozone 12 Clarity",
+      "displayName": "Ozone 12 Clarity",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "dyneq"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Спектральная обработка для ясности.",
+      "source": "https://docs.izotope.com/ozone12/en/clarity.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Dynamic EQ",
+      "name": "Ozone 12 Dynamic EQ",
+      "displayName": "Ozone 12 Dynamic EQ",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "dyneq",
+        "eq"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Динамические полосы EQ.",
+      "source": "https://docs.izotope.com/ozone12/en/dynamic-eq.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Dynamics",
+      "name": "Ozone 12 Dynamics",
+      "displayName": "Ozone 12 Dynamics",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Многополосная компрессия / динамика.",
+      "source": "https://docs.izotope.com/ozone12/en/dynamics.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Equalizer",
+      "name": "Ozone 12 Equalizer",
+      "displayName": "Ozone 12 Equalizer",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Точный EQ для мастерингового баланса.",
+      "source": "https://docs.izotope.com/ozone12/en/equalizer.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Exciter",
+      "name": "Ozone 12 Exciter",
+      "displayName": "Ozone 12 Exciter",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Многополосное гармоническое возбуждение.",
+      "source": "https://docs.izotope.com/ozone12/en/exciter.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Imager",
+      "name": "Ozone 12 Imager",
+      "displayName": "Ozone 12 Imager",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "stereo"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Управление шириной по частотным диапазонам.",
+      "source": "https://docs.izotope.com/ozone12/en/imager.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Impact",
+      "name": "Ozone 12 Impact",
+      "displayName": "Ozone 12 Impact",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "transient",
+        "comp"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Многополосное управление микродинамикой.",
+      "source": "https://docs.izotope.com/ozone12/en/impact.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Low End Focus",
+      "name": "Ozone 12 Low End Focus",
+      "displayName": "Ozone 12 Low End Focus",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Изменение контраста деталей низкочастотного диапазона.",
+      "source": "https://docs.izotope.com/ozone12/en/low-end-focus.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Master Rebalance",
+      "name": "Ozone 12 Master Rebalance",
+      "displayName": "Ozone 12 Master Rebalance",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Изменение уровня вокала, баса и барабанов в готовом миксе.",
+      "source": "https://docs.izotope.com/ozone12/en/master-rebalance.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Match EQ",
+      "name": "Ozone 12 Match EQ",
+      "displayName": "Ozone 12 Match EQ",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Сопоставление спектра с референсом.",
+      "source": "https://docs.izotope.com/ozone12/en/match-eq.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Maximizer",
+      "name": "Ozone 12 Maximizer",
+      "displayName": "Ozone 12 Maximizer",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "limit"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Финальное ограничение пиков и повышение громкости.",
+      "source": "https://docs.izotope.com/ozone12/en/maximizer.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Spectral Shaper",
+      "name": "Ozone 12 Spectral Shaper",
+      "displayName": "Ozone 12 Spectral Shaper",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "dyneq"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Спектральное сглаживание резкости.",
+      "source": "https://docs.izotope.com/ozone12/en/spectral-shaper.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Stabilizer",
+      "name": "Ozone 12 Stabilizer",
+      "displayName": "Ozone 12 Stabilizer",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "dyneq",
+        "eq"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Адаптивная спектральная коррекция.",
+      "source": "https://docs.izotope.com/ozone12/en/stabilizer.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Stem EQ",
+      "name": "Ozone 12 Stem EQ",
+      "displayName": "Ozone 12 Stem EQ",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "eq",
+        "restore"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "EQ выделенных компонентов внутри готового stereo-микса.",
+      "source": "https://docs.izotope.com/ozone12/en/stem-eq.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Unlimiter",
+      "name": "Ozone 12 Unlimiter",
+      "displayName": "Ozone 12 Unlimiter",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore",
+        "transient"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Попытка восстановить динамику чрезмерно лимитированного материала.",
+      "source": "https://docs.izotope.com/ozone12/en/unlimiter.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Vintage Compressor",
+      "name": "Ozone 12 Vintage Compressor",
+      "displayName": "Ozone 12 Vintage Compressor",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Компрессор с винтажным характером.",
+      "source": "https://docs.izotope.com/ozone12/en/vintage-compressor.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Vintage EQ",
+      "name": "Ozone 12 Vintage EQ",
+      "displayName": "Ozone 12 Vintage EQ",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Тональный EQ в духе Pultec.",
+      "source": "https://docs.izotope.com/ozone12/en/vintage-eq.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Vintage Limiter",
+      "name": "Ozone 12 Vintage Limiter",
+      "displayName": "Ozone 12 Vintage Limiter",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "limit"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Лимитер с винтажным характером.",
+      "source": "https://docs.izotope.com/ozone12/en/vintage-limiter.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Ozone 12 Vintage Tape",
+      "name": "Ozone 12 Vintage Tape",
+      "displayName": "Ozone 12 Vintage Tape",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Ленточное насыщение и тональный окрас.",
+      "source": "https://docs.izotope.com/ozone12/en/vintage-tape.html",
+      "note": "",
+      "version": "12.1.0"
+    },
+    {
+      "key": "Parallel Aggressor",
+      "name": "Parallel Aggressor",
+      "displayName": "Parallel Aggressor",
+      "publisher": "BABY Audio",
+      "manufacturer": "BABY Audio",
+      "searchTerms": [
+        "BABY Audio",
+        "BABY Audio"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "sat"
+      ],
+      "uses": [
+        "drums",
+        "bus",
+        "bass"
+      ],
+      "description": "Параллельная компрессия и насыщение.",
+      "source": "https://babyaud.io/",
+      "note": "",
+      "version": "1.5"
+    },
+    {
+      "key": "Phaser BI-TRON",
+      "name": "Phaser BI-TRON",
+      "displayName": "Phaser BI-TRON",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "mod",
+        "creative"
+      ],
+      "uses": [
+        "instruments",
+        "vocal"
+      ],
+      "description": "Движение тембра: flanger, phaser или вращающийся кабинет, согласно названию.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.5.1.6566"
+    },
+    {
+      "key": "Pigments",
+      "name": "Pigments",
+      "displayName": "Pigments",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments",
+        "bass"
+      ],
+      "description": "Гибридный синтезатор для басов, лидов, пэдов и сложных фактур.",
+      "source": "https://www.arturia.com/products/software-instruments/pigments/overview",
+      "note": "",
+      "version": "7.0.1.6772"
+    },
+    {
+      "key": "Pitch SHIFTER-910",
+      "name": "Pitch SHIFTER-910",
+      "displayName": "Pitch SHIFTER-910",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "pitch",
+        "creative",
+        "delay"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Creative pitch shifting в стиле ранних цифровых процессоров.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.0.0.6566"
+    },
+    {
+      "key": "Plasma",
+      "name": "Plasma",
+      "displayName": "Plasma",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums",
+        "bus",
+        "master"
+      ],
+      "description": "Спектральное насыщение с ламповым характером.",
+      "source": "https://shopify.izotope.com/community/blog/izotope-catalyst-series",
+      "note": "",
+      "version": "1.1.0"
+    },
+    {
+      "key": "uaudio_polymax",
+      "name": "UADx PolyMAX Synth",
+      "displayName": "PolyMAX Synth",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments",
+        "bass"
+      ],
+      "description": "Виртуальный аналоговый синтезатор PolyMAX.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.0.16"
+    },
+    {
+      "key": "Pre 1973",
+      "name": "Pre 1973",
+      "displayName": "Pre 1973",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "sat",
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Эмуляция предусилителя с тональной обработкой.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.9.1.6566"
+    },
+    {
+      "key": "Pre TridA",
+      "name": "Pre TridA",
+      "displayName": "Pre TridA",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "sat",
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Эмуляция предусилителя с тональной обработкой.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.8.1.6566"
+    },
+    {
+      "key": "Pre V76",
+      "name": "Pre V76",
+      "displayName": "Pre V76",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "sat",
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Эмуляция предусилителя с тональной обработкой.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.8.1.6566"
+    },
+    {
+      "key": "FabFilter Pro-C 3",
+      "name": "FabFilter Pro-C 3",
+      "displayName": "Pro-C 3",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "comp",
+        "sc"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Универсальный компрессор с детальным контролем динамики.",
+      "source": "https://www.fabfilter.com/products/pro-c-3-compressor-plug-in",
+      "note": "",
+      "version": "3.02"
+    },
+    {
+      "key": "FabFilter Pro-DS",
+      "name": "FabFilter Pro-DS",
+      "displayName": "Pro-DS",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "deess"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "De-esser для сибилянтов.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "1.32"
+    },
+    {
+      "key": "FabFilter Pro-G",
+      "name": "FabFilter Pro-G",
+      "displayName": "Pro-G",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "gate"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "instruments"
+      ],
+      "description": "Gate / экспандер для пауз и утечек.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "1.42"
+    },
+    {
+      "key": "FabFilter Pro-L 2",
+      "name": "FabFilter Pro-L 2",
+      "displayName": "Pro-L 2",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "limit"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Лимитер для финального контроля пиков и громкости.",
+      "source": "https://www.fabfilter.com/products/pro-l-2-limiter-plug-in",
+      "note": "",
+      "version": "2.26"
+    },
+    {
+      "key": "FabFilter Pro-MB",
+      "name": "FabFilter Pro-MB",
+      "displayName": "Pro-MB",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "comp",
+        "sc"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "drums",
+        "bus",
+        "master"
+      ],
+      "description": "Многополосная динамика.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "1.33"
+    },
+    {
+      "key": "FabFilter Pro-Q 4",
+      "name": "FabFilter Pro-Q 4",
+      "displayName": "Pro-Q 4",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "eq",
+        "dyneq",
+        "sc"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Точный параметрический EQ с динамическими полосами.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "4.13"
+    },
+    {
+      "key": "FabFilter Pro-R 2",
+      "name": "FabFilter Pro-R 2",
+      "displayName": "Pro-R 2",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Алгоритмическая реверберация с гибким управлением хвостом.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "2.06"
+    },
+    {
+      "key": "Pulsar Vocal Studio",
+      "name": "Pulsar Vocal Studio",
+      "displayName": "Pulsar Vocal Studio",
+      "publisher": "Pulsar",
+      "manufacturer": "Pulsar Audio",
+      "searchTerms": [
+        "Pulsar",
+        "Pulsar Audio"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "eq",
+        "deess",
+        "sat",
+        "verb",
+        "delay",
+        "dyneq"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Комплексная analog-style вокальная обработка.",
+      "source": "https://pulsar.audio/vocal-studio/",
+      "note": "",
+      "version": "1.0.15"
+    },
+    {
+      "key": "uaudio_pultec_eqp-1a",
+      "name": "UADx Pultec EQP-1A EQ",
+      "displayName": "Pultec EQP-1A EQ",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "bass",
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Pultec EQP-1A: широкая музыкальная коррекция низа и верха.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.2.16"
+    },
+    {
+      "key": "uaudio_pultec_hlf-3c",
+      "name": "UADx Pultec HLF-3C EQ",
+      "displayName": "Pultec HLF-3C EQ",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "instruments",
+        "vocal",
+        "bus",
+        "master"
+      ],
+      "description": "Pultec HLF-3C: фильтрация верхнего и нижнего края спектра.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.2.16"
+    },
+    {
+      "key": "uaudio_pultec_meq-5",
+      "name": "UADx Pultec MEQ-5 EQ",
+      "displayName": "Pultec MEQ-5 EQ",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Pultec MEQ-5: тональная работа с серединой.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.2.16"
+    },
+    {
+      "key": "uaudio_pure_plate",
+      "name": "UADx Pure Plate Reverb",
+      "displayName": "Pure Plate Reverb",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Plate reverb Universal Audio.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.4.16"
+    },
+    {
+      "key": "Pure SUB",
+      "name": "Pure SUB",
+      "displayName": "Pure SUB",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "bass"
+      ],
+      "description": "Синтезатор, ориентированный на дизайн саб-баса.",
+      "source": "https://www.arturia.com/products/software-instruments/pure-sub/overview",
+      "note": "",
+      "version": "1.0.0.6835"
+    },
+    {
+      "key": "RC-20 Retro Color",
+      "name": "RC-20 Retro Color",
+      "displayName": "RC-20 Retro Color",
+      "publisher": "XLN Audio",
+      "manufacturer": "XLN Audio",
+      "searchTerms": [
+        "XLN Audio",
+        "XLN Audio"
+      ],
+      "categories": [
+        "creative",
+        "sat",
+        "mod"
+      ],
+      "uses": [
+        "instruments",
+        "vocal",
+        "drums"
+      ],
+      "description": "Lo-fi multi-FX: шум, wobble, искажение и пространственный окрас.",
+      "source": "https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Realphones",
+      "name": "Realphones",
+      "displayName": "Realphones",
+      "publisher": "dSONIQ",
+      "manufacturer": "dSONIQ",
+      "searchTerms": [
+        "dSONIQ",
+        "dSONIQ"
+      ],
+      "categories": [
+        "monitor"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Коррекция и виртуальное прослушивание в наушниках.",
+      "source": "https://www.dsoniq.com/realphones",
+      "note": "",
+      "version": "2.2.5"
+    },
+    {
+      "key": "REFERENCE3",
+      "name": "REFERENCE 3",
+      "displayName": "REFERENCE 3",
+      "publisher": "Mastering the Mix",
+      "manufacturer": "Mastering The Mix",
+      "searchTerms": [
+        "Mastering the Mix",
+        "Mastering The Mix"
+      ],
+      "categories": [
+        "monitor"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "A/B-сравнение микса с референсами и оценка различий.",
+      "source": "https://www.masteringthemix.com/products/reference",
+      "note": "",
+      "version": "1.0.12"
+    },
+    {
+      "key": "RESO",
+      "name": "RESO",
+      "displayName": "RESO",
+      "publisher": "Mastering the Mix",
+      "manufacturer": "Mastering The Mix",
+      "searchTerms": [
+        "Mastering the Mix",
+        "Mastering The Mix"
+      ],
+      "categories": [
+        "dyneq"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums",
+        "bus",
+        "master"
+      ],
+      "description": "Поиск и динамическое подавление резонансов.",
+      "source": "https://www.masteringthemix.com/products/reso",
+      "note": "",
+      "version": "1.0.9"
+    },
+    {
+      "key": "Retro Sta-Level",
+      "name": "Retro Sta-Level",
+      "displayName": "Retro Sta-Level",
+      "publisher": "Kazrog",
+      "manufacturer": "Kazrog",
+      "searchTerms": [
+        "Kazrog",
+        "Kazrog"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "instruments"
+      ],
+      "description": "Модель лампового Retro Sta-Level.",
+      "source": "https://kazrog.com/products/retro-sta-level",
+      "note": "",
+      "version": "1.0.3"
+    },
+    {
+      "key": "Rev INTENSITY",
+      "name": "Rev INTENSITY",
+      "displayName": "Rev INTENSITY",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "verb",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Реверберация для современной и выразительной атмосферы.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.6.1.6566"
+    },
+    {
+      "key": "Rev LX-24",
+      "name": "Rev LX-24",
+      "displayName": "Rev LX-24",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bus"
+      ],
+      "description": "Алгоритмическая реверберация классического цифрового типа.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.2.1.6567"
+    },
+    {
+      "key": "Rev PLATE-140",
+      "name": "Rev PLATE-140",
+      "displayName": "Rev PLATE-140",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "instruments"
+      ],
+      "description": "Пластинчатая реверберация с винтажным характером.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.7.1.6566"
+    },
+    {
+      "key": "Rev SPRING-636",
+      "name": "Rev SPRING-636",
+      "displayName": "Rev SPRING-636",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Пружинная реверберация.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.6.1.6566"
+    },
+    {
+      "key": "Rotary CLS-222",
+      "name": "Rotary CLS-222",
+      "displayName": "Rotary CLS-222",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "mod",
+        "creative"
+      ],
+      "uses": [
+        "instruments",
+        "vocal"
+      ],
+      "description": "Движение тембра: flanger, phaser или вращающийся кабинет, согласно названию.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.2.1.6566"
+    },
+    {
+      "key": "RX 11 Breath Control",
+      "name": "RX 11 Breath Control",
+      "displayName": "RX 11 Breath Control",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Приглушение дыхания.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Connect",
+      "name": "RX 11 Connect",
+      "displayName": "RX 11 Connect",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "utility"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Передача аудио между DAW и RX Audio Editor.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 De-click",
+      "name": "RX 11 De-click",
+      "displayName": "RX 11 De-click",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Устранение отдельных щелчков.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 De-clip",
+      "name": "RX 11 De-clip",
+      "displayName": "RX 11 De-clip",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Восстановление клиппированного аудио.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 De-crackle",
+      "name": "RX 11 De-crackle",
+      "displayName": "RX 11 De-crackle",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Подавление частого мелкого потрескивания.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 De-ess",
+      "name": "RX 11 De-ess",
+      "displayName": "RX 11 De-ess",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "deess"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Приглушение сибилянтов.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 De-hum",
+      "name": "RX 11 De-hum",
+      "displayName": "RX 11 De-hum",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Удаление гула и связанных гармоник.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 De-plosive",
+      "name": "RX 11 De-plosive",
+      "displayName": "RX 11 De-plosive",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Снижение взрывных «П/Б» и низкочастотных ударов воздуха.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 De-reverb",
+      "name": "RX 11 De-reverb",
+      "displayName": "RX 11 De-reverb",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Подавление записанного хвоста комнаты.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Dialogue Isolate",
+      "name": "RX 11 Dialogue Isolate",
+      "displayName": "RX 11 Dialogue Isolate",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Выделение голоса из шумной среды.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Guitar De-noise",
+      "name": "RX 11 Guitar De-noise",
+      "displayName": "RX 11 Guitar De-noise",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Подавление типичных гитарных шумов.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Monitor",
+      "name": "RX 11 Monitor",
+      "displayName": "RX 11 Monitor",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "utility",
+        "monitor"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Мониторинг аудио из RX через DAW.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Mouth De-click",
+      "name": "RX 11 Mouth De-click",
+      "displayName": "RX 11 Mouth De-click",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Удаление ротовых щелчков.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Repair Assistant",
+      "name": "RX 11 Repair Assistant",
+      "displayName": "RX 11 Repair Assistant",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Автоматический подбор коррекции проблем записи.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Spectral De-noise",
+      "name": "RX 11 Spectral De-noise",
+      "displayName": "RX 11 Spectral De-noise",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Спектральное шумоподавление.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Spectral Editor",
+      "name": "RX 11 Spectral Editor",
+      "displayName": "RX 11 Spectral Editor",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Спектральное редактирование проблемных участков.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "RX 11 Voice De-noise",
+      "name": "RX 11 Voice De-noise",
+      "displayName": "RX 11 Voice De-noise",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "restore"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Шумоподавление для голосового источника.",
+      "source": "https://support.izotope.com/hc/en-us/articles/8848064901277-iZotope-Product-Manuals-Documentation",
+      "note": "",
+      "version": "11.4.0"
+    },
+    {
+      "key": "FabFilter Saturn 2",
+      "name": "FabFilter Saturn 2",
+      "displayName": "Saturn 2",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "sat",
+        "dist"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "drums",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Многополосное насыщение и искажение.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "2.13"
+    },
+    {
+      "key": "Serum2",
+      "name": "Serum 2",
+      "displayName": "Serum 2",
+      "publisher": "Xfer Records",
+      "manufacturer": "Xfer Records",
+      "searchTerms": [
+        "Xfer Records",
+        "Xfer Records"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments",
+        "bass",
+        "drums"
+      ],
+      "description": "Гибридный синтезатор: wavetable, sample, granular и другие типы генерации.",
+      "source": "https://www.xferrecords.com/products/serum-2",
+      "note": "",
+      "version": "2.1.5"
+    },
+    {
+      "key": "Serum 2 FX",
+      "name": "Serum 2 FX",
+      "displayName": "Serum 2 FX",
+      "publisher": "Xfer Records",
+      "manufacturer": "Xfer Records",
+      "searchTerms": [
+        "Xfer Records",
+        "Xfer Records"
+      ],
+      "categories": [
+        "creative",
+        "strip"
+      ],
+      "uses": [
+        "instruments",
+        "vocal",
+        "drums",
+        "bass"
+      ],
+      "description": "Отдельный FX-процессор из пакета Serum 2.",
+      "source": "https://www.xferrecords.com/products/serum-2",
+      "note": "",
+      "version": "2.1.5"
+    },
+    {
+      "key": "ShaperBox 3",
+      "name": "ShaperBox 3",
+      "displayName": "ShaperBox 3",
+      "publisher": "Cableguys",
+      "manufacturer": "Cableguys",
+      "searchTerms": [
+        "Cableguys",
+        "Cableguys"
+      ],
+      "categories": [
+        "sc",
+        "creative"
+      ],
+      "uses": [
+        "bass",
+        "drums",
+        "instruments",
+        "vocal",
+        "bus"
+      ],
+      "description": "Рисуемые огибающие и набор creative FX; VolumeShaper управляет громкостью.",
+      "source": "https://www.cableguys.com/shaperbox",
+      "note": "",
+      "version": "3.6.1"
+    },
+    {
+      "key": "uaudio_showtime_amp",
+      "name": "UADx Showtime 64 Tube Amp",
+      "displayName": "Showtime 64 Tube Amp",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "dist"
+      ],
+      "uses": [
+        "instruments",
+        "vocal"
+      ],
+      "description": "Гитарный tube amp-эффект Showtime 64.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.0.1"
+    },
+    {
+      "key": "FabFilter Simplon",
+      "name": "FabFilter Simplon",
+      "displayName": "Simplon",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "creative",
+        "eq"
+      ],
+      "uses": [
+        "instruments",
+        "drums",
+        "vocal"
+      ],
+      "description": "Музыкальные фильтры для тембра и движения.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "1.42"
+    },
+    {
+      "key": "smartcomp3",
+      "name": "smart:comp 3",
+      "displayName": "smart:comp 3",
+      "publisher": "sonible",
+      "manufacturer": "sonible",
+      "searchTerms": [
+        "sonible",
+        "sonible"
+      ],
+      "categories": [
+        "comp",
+        "sc"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Интеллектуальный компрессор со спектральной компрессией и частотным ducking по внешнему sidechain.",
+      "source": "https://www.sonible.com/smartcomp3/",
+      "note": "",
+      "version": "1.0.2"
+    },
+    {
+      "key": "Smooth Operator Pro",
+      "name": "Smooth Operator Pro",
+      "displayName": "Smooth Operator Pro",
+      "publisher": "BABY Audio",
+      "manufacturer": "BABY Audio",
+      "searchTerms": [
+        "BABY Audio",
+        "BABY Audio"
+      ],
+      "categories": [
+        "dyneq",
+        "sc"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bass",
+        "bus",
+        "master"
+      ],
+      "description": "Спектральное подавление резонансов и балансировка; внешний sidechain.",
+      "source": "https://babyaud.io/smooth-operator-plugin",
+      "note": "",
+      "version": "1.2"
+    },
+    {
+      "key": "soothe2",
+      "name": "soothe2",
+      "displayName": "soothe2",
+      "publisher": "oeksound",
+      "manufacturer": "oeksound",
+      "searchTerms": [
+        "oeksound",
+        "oeksound"
+      ],
+      "categories": [
+        "dyneq",
+        "sc"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "bass",
+        "drums",
+        "bus",
+        "master"
+      ],
+      "description": "Динамический подавитель резонансов с внешним sidechain.",
+      "source": "https://oeksound.com/manuals/soothe2/",
+      "note": "",
+      "version": "1.3.3"
+    },
+    {
+      "key": "SoundID Reference VST3 Plugin",
+      "name": "SoundID Reference Plugin",
+      "displayName": "SoundID Reference Plugin",
+      "publisher": "Sonarworks",
+      "manufacturer": "Sonarworks",
+      "searchTerms": [
+        "Sonarworks",
+        "Sonarworks"
+      ],
+      "categories": [
+        "monitor"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Калибровка мониторного тракта под профиль наушников / колонок.",
+      "source": "https://support.sonarworks.com/hc/en-us/articles/360019896640-Setting-up-with-the-SoundID-Reference-DAW-plugin",
+      "note": "",
+      "version": "5.6.1"
+    },
+    {
+      "key": "SPAN",
+      "name": "SPAN",
+      "displayName": "SPAN",
+      "publisher": "Voxengo",
+      "manufacturer": "Voxengo",
+      "searchTerms": [
+        "Voxengo",
+        "Voxengo"
+      ],
+      "categories": [
+        "monitor"
+      ],
+      "uses": [
+        "master",
+        "bus",
+        "bass",
+        "drums"
+      ],
+      "description": "Спектральный анализ, уровни и корреляция.",
+      "source": "https://www.voxengo.com/product/span/",
+      "note": "",
+      "version": "3.23"
+    },
+    {
+      "key": "spiff",
+      "name": "spiff",
+      "displayName": "spiff",
+      "publisher": "oeksound",
+      "manufacturer": "oeksound",
+      "searchTerms": [
+        "oeksound",
+        "oeksound"
+      ],
+      "categories": [
+        "transient"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "instruments",
+        "bus"
+      ],
+      "description": "Адаптивная обработка транзиентов по частотам.",
+      "source": "https://oeksound.com/plugins/spiff/",
+      "note": "",
+      "version": "1.4.4"
+    },
+    {
+      "key": "STEREOVAULT",
+      "name": "STEREOVAULT",
+      "displayName": "STEREOVAULT",
+      "publisher": "Mastering the Mix",
+      "manufacturer": "Mastering The Mix",
+      "searchTerms": [
+        "Mastering the Mix",
+        "Mastering The Mix"
+      ],
+      "categories": [
+        "stereo"
+      ],
+      "uses": [
+        "instruments",
+        "vocal",
+        "bus",
+        "master"
+      ],
+      "description": "Анализ и управление шириной, панорамой и пространством.",
+      "source": "https://www.masteringthemix.com/products/stereovault",
+      "note": "",
+      "version": "1.2.0"
+    },
+    {
+      "key": "Submerge",
+      "name": "Submerge",
+      "displayName": "Submerge",
+      "publisher": "Slate Digital",
+      "manufacturer": "Slate Digital",
+      "searchTerms": [
+        "Slate Digital",
+        "Slate Digital"
+      ],
+      "categories": [
+        "sc",
+        "creative"
+      ],
+      "uses": [
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "vocal"
+      ],
+      "description": "Ритмический ducking и pumping по темпу, MIDI или аудиотриггеру; есть фильтровые эффекты.",
+      "source": "https://docs.slatedigital.com/Submerge/Submerge.html",
+      "note": "",
+      "version": "1.1.1"
+    },
+    {
+      "key": "Supernova",
+      "name": "Supernova",
+      "displayName": "Supernova",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "verb",
+        "delay"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Совмещённая FX-цепочка reverb + delay.",
+      "source": "https://nuroaudio.com/pages/supernova",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Supernova Delay",
+      "name": "Supernova Delay",
+      "displayName": "Supernova Delay",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "delay"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Отдельный delay из Supernova.",
+      "source": "https://nuroaudio.com/pages/supernova",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Supernova Verb",
+      "name": "Supernova Verb",
+      "displayName": "Supernova Verb",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Отдельный reverb из Supernova.",
+      "source": "https://nuroaudio.com/pages/supernova",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Tape J-37",
+      "name": "Tape J-37",
+      "displayName": "Tape J-37",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Эмуляция лампового ленточного тракта.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.1.0.6566"
+    },
+    {
+      "key": "Tape MELLO-FI",
+      "name": "Tape MELLO-FI",
+      "displayName": "Tape MELLO-FI",
+      "publisher": "Arturia",
+      "manufacturer": "Arturia",
+      "searchTerms": [
+        "Arturia",
+        "Arturia"
+      ],
+      "categories": [
+        "sat",
+        "creative"
+      ],
+      "uses": [
+        "instruments",
+        "vocal",
+        "drums"
+      ],
+      "description": "Ленточный lo-fi-окрас в духе Mellotron.",
+      "source": "https://www.arturia.com/products/software-effects/fx-collection/overview",
+      "note": "",
+      "version": "1.4.1.6566"
+    },
+    {
+      "key": "FabFilter Timeless 3",
+      "name": "FabFilter Timeless 3",
+      "displayName": "Timeless 3",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "delay",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments"
+      ],
+      "description": "Delay с фильтрацией и модуляцией.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "3.10"
+    },
+    {
+      "key": "Tonal Balance Control 3",
+      "name": "Tonal Balance Control 3",
+      "displayName": "Tonal Balance Control 3",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "monitor",
+        "eq"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Референсный анализ тона, вокального баланса, динамики и ширины; встроенный EQ.",
+      "source": "https://www.izotope.com/products/tonal-balance-control?tab=features",
+      "note": "",
+      "version": "3.0.0"
+    },
+    {
+      "key": "True Dynamics",
+      "name": "True Dynamics",
+      "displayName": "True Dynamics",
+      "publisher": "Kazrog",
+      "manufacturer": "Kazrog",
+      "searchTerms": [
+        "Kazrog",
+        "Kazrog"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "drums",
+        "bus",
+        "master"
+      ],
+      "description": "Три винтажные vari-mu-модели: Presto 41A, ITA LA1B, Collins 26W.",
+      "source": "https://kazrog.com/products/true-dynamics",
+      "note": "",
+      "version": "1.2.6"
+    },
+    {
+      "key": "FabFilter Twin 3",
+      "name": "FabFilter Twin 3",
+      "displayName": "Twin 3",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments",
+        "bass"
+      ],
+      "description": "Виртуальный синтезатор.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "3.07"
+    },
+    {
+      "key": "Uni-L",
+      "name": "Uni-L",
+      "displayName": "Uni-L",
+      "publisher": "Tone Projects",
+      "manufacturer": "Tone Projects",
+      "searchTerms": [
+        "Tone Projects",
+        "Tone Projects"
+      ],
+      "categories": [
+        "limit"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Мастеринговый лимитер Tone Projects.",
+      "source": "https://bobmaccsblog.wordpress.com/",
+      "note": "Официальная страница недоступна инструменту проверки; базовое назначение подтверждено сообщением соавтора Bob Macc. Режимы не перепроверены.",
+      "version": "1.0.1"
+    },
+    {
+      "key": "Unisum",
+      "name": "Unisum",
+      "displayName": "Unisum",
+      "publisher": "Tone Projects",
+      "manufacturer": "Tone Projects",
+      "searchTerms": [
+        "Tone Projects",
+        "Tone Projects"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "master",
+        "bus"
+      ],
+      "description": "Гибкий компрессор для прозрачной шины и мастеринга.",
+      "source": "https://www.toneprojects.com/unisum-mastering-compressor.html",
+      "note": "",
+      "version": "1.1.9"
+    },
+    {
+      "key": "ValhallaDelay",
+      "name": "ValhallaDelay",
+      "displayName": "ValhallaDelay",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "delay"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Delay разных характеров: чистый, tape и другие модели.",
+      "source": "https://valhalladsp.com/shop/delay/valhalladelay/",
+      "note": "",
+      "version": "3.0.5"
+    },
+    {
+      "key": "ValhallaFreqEcho",
+      "name": "ValhallaFreqEcho",
+      "displayName": "ValhallaFreqEcho",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "delay",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Эхо с frequency shifting.",
+      "source": "https://valhalladsp.com/shop/delay/valhalla-freq-echo/",
+      "note": "",
+      "version": "1.2.8"
+    },
+    {
+      "key": "ValhallaFutureVerb",
+      "name": "ValhallaFutureVerb",
+      "displayName": "ValhallaFutureVerb",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "verb",
+        "delay"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Современная прозрачная алгоритмическая реверберация и эхо.",
+      "source": "https://valhalladsp.com/shop/reverb/valhallafutureverb/",
+      "note": "",
+      "version": "1.0.2"
+    },
+    {
+      "key": "ValhallaPlate",
+      "name": "ValhallaPlate",
+      "displayName": "ValhallaPlate",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Алгоритмические plate-пространства.",
+      "source": "https://valhalladsp.com/shop/reverb/valhalla-plate/",
+      "note": "",
+      "version": "1.6.8"
+    },
+    {
+      "key": "ValhallaRoom",
+      "name": "ValhallaRoom",
+      "displayName": "ValhallaRoom",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Алгоритмическая room-реверберация.",
+      "source": "https://valhalladsp.com/shop/reverb/valhalla-room/",
+      "note": "",
+      "version": "2.0.5"
+    },
+    {
+      "key": "ValhallaShimmer",
+      "name": "ValhallaShimmer",
+      "displayName": "ValhallaShimmer",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "verb",
+        "pitch",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Реверберация с pitch-shift слоями.",
+      "source": "https://valhalladsp.com/shop/reverb/valhalla-shimmer/",
+      "note": "",
+      "version": "1.3.0"
+    },
+    {
+      "key": "ValhallaSpaceModulator",
+      "name": "ValhallaSpaceModulator",
+      "displayName": "ValhallaSpaceModulator",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "mod",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Модуляционный процессор с flanger / пространственными эффектами.",
+      "source": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/",
+      "note": "",
+      "version": "1.2.8"
+    },
+    {
+      "key": "ValhallaSupermassive",
+      "name": "ValhallaSupermassive",
+      "displayName": "ValhallaSupermassive",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "verb",
+        "delay",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Большие delay/reverb-пространства.",
+      "source": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+      "note": "",
+      "version": "5.0.0"
+    },
+    {
+      "key": "ValhallaUberMod",
+      "name": "ValhallaUberMod",
+      "displayName": "ValhallaUberMod",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "mod",
+        "delay",
+        "stereo"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Многотаповый delay / modulation для ширины и движения.",
+      "source": "https://valhalladsp.com/shop/delay/valhalla-uber-mod/",
+      "note": "",
+      "version": "1.2.8"
+    },
+    {
+      "key": "ValhallaVintageVerb",
+      "name": "ValhallaVintageVerb",
+      "displayName": "ValhallaVintageVerb",
+      "publisher": "Valhalla DSP, LLC",
+      "manufacturer": "Valhalla DSP",
+      "searchTerms": [
+        "Valhalla DSP, LLC",
+        "Valhalla DSP"
+      ],
+      "categories": [
+        "verb"
+      ],
+      "uses": [
+        "vocal",
+        "instruments",
+        "drums"
+      ],
+      "description": "Винтажная цифровая реверберация.",
+      "source": "https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/",
+      "note": "",
+      "version": "4.0.5"
+    },
+    {
+      "key": "Velvet",
+      "name": "Velvet",
+      "displayName": "Velvet",
+      "publisher": "iZotope",
+      "manufacturer": "iZotope",
+      "searchTerms": [
+        "iZotope",
+        "iZotope"
+      ],
+      "categories": [
+        "deess",
+        "dyneq"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Умный de-esser с раздельными Sibilance/Tonal-процессами.",
+      "source": "https://shopify.izotope.com/community/blog/izotope-catalyst-series",
+      "note": "",
+      "version": "1.0.0"
+    },
+    {
+      "key": "uaudio_verve_essentials",
+      "name": "UADx Vibe Analog Machines Essentials",
+      "displayName": "Vibe Analog Machines Essentials",
+      "publisher": "Universal Audio (UADx)",
+      "manufacturer": "Universal Audio",
+      "searchTerms": [
+        "Universal Audio (UADx)",
+        "Universal Audio"
+      ],
+      "categories": [
+        "sat",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "instruments",
+        "bus"
+      ],
+      "description": "UADx Vibe Analog Machines Essentials: набор analog-character моделей.",
+      "source": "https://www.uaudio.com/uad-plugins.html",
+      "note": "",
+      "version": "1.1.0"
+    },
+    {
+      "key": "VM FG-Bomber",
+      "name": "VM FG-Bomber",
+      "displayName": "VM FG-Bomber",
+      "publisher": "Slate Digital",
+      "manufacturer": "Slate Digital",
+      "searchTerms": [
+        "Slate Digital",
+        "Slate Digital"
+      ],
+      "categories": [
+        "transient",
+        "creative"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus",
+        "master"
+      ],
+      "description": "Динамический энхансер для усиления атаки, плотности и присутствия звука.",
+      "source": "https://docs.slatedigital.com/VMR/FG-Bomber.html",
+      "note": "",
+      "version": "1.0.7"
+    },
+    {
+      "key": "VocAlign6Pro",
+      "name": "VocAlign 6 Pro",
+      "displayName": "VocAlign 6 Pro",
+      "publisher": "Synchro Arts",
+      "manufacturer": "Synchro Arts",
+      "searchTerms": [
+        "Synchro Arts",
+        "Synchro Arts"
+      ],
+      "categories": [
+        "pitch",
+        "utility"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Выравнивание тайминга и высоты дублей по guide-вокалу.",
+      "source": "https://www.synchroarts.com/vocalign",
+      "note": "",
+      "version": "1"
+    },
+    {
+      "key": "FabFilter Volcano 3",
+      "name": "FabFilter Volcano 3",
+      "displayName": "Volcano 3",
+      "publisher": "FabFilter",
+      "manufacturer": "FabFilter",
+      "searchTerms": [
+        "FabFilter",
+        "FabFilter"
+      ],
+      "categories": [
+        "creative",
+        "eq"
+      ],
+      "uses": [
+        "instruments",
+        "drums",
+        "vocal"
+      ],
+      "description": "Музыкальные фильтры для тембра и движения.",
+      "source": "https://www.fabfilter.com/products",
+      "note": "",
+      "version": "3.09"
+    },
+    {
+      "key": "Vovious",
+      "name": "Vovious",
+      "displayName": "Vovious",
+      "publisher": "Vovious",
+      "manufacturer": "Vovious",
+      "searchTerms": [
+        "Vovious",
+        "Vovious"
+      ],
+      "categories": [
+        "pitch"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Редактор высоты, вибрато, формант и уровня вокальных нот.",
+      "source": "https://www.vovious.com/",
+      "note": "",
+      "version": "1.0.16"
+    },
+    {
+      "key": "Xpitch",
+      "name": "Xpitch",
+      "displayName": "Xpitch",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "pitch"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Коррекция и creative-манипуляция высотой вокала.",
+      "source": "https://nuroaudio.com/pages/xpitch",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrack",
+      "name": "Xrack",
+      "displayName": "Xrack",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "sat",
+        "eq",
+        "mod"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Универсальная analog-style FX-цепочка.",
+      "source": "https://nuroaudio.com/pages/xrack-pro",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrack Comp",
+      "name": "Xrack Comp",
+      "displayName": "Xrack Comp",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Компрессорный модуль Xrack Pro.",
+      "source": "https://nuroaudio.com/pages/xrack-pro",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrack Max",
+      "name": "Xrack Max",
+      "displayName": "Xrack Max",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "comp",
+        "clip",
+        "limit"
+      ],
+      "uses": [
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Maximize-обработка Xrack Pro: динамика и контроль пиков.",
+      "source": "https://nuroaudio.com/pages/xrack-pro",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrack Mod",
+      "name": "Xrack Mod",
+      "displayName": "Xrack Mod",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "mod"
+      ],
+      "uses": [
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Модуляционные FX Xrack Pro.",
+      "source": "https://nuroaudio.com/pages/xrack-pro",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrack Pro",
+      "name": "Xrack Pro",
+      "displayName": "Xrack Pro",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "sat",
+        "eq",
+        "mod"
+      ],
+      "uses": [
+        "vocal",
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Универсальная analog-style FX-цепочка.",
+      "source": "https://nuroaudio.com/pages/xrack-pro",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrack Sat",
+      "name": "Xrack Sat",
+      "displayName": "Xrack Sat",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "sat"
+      ],
+      "uses": [
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Saturation-модуль Xrack Pro.",
+      "source": "https://nuroaudio.com/pages/xrack-pro",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrack Tone",
+      "name": "Xrack Tone",
+      "displayName": "Xrack Tone",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Тональные кривые / EQ Xrack Pro.",
+      "source": "https://nuroaudio.com/pages/xrack-pro",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrack Transient",
+      "name": "Xrack Transient",
+      "displayName": "Xrack Transient",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "transient"
+      ],
+      "uses": [
+        "drums",
+        "bass",
+        "instruments",
+        "bus"
+      ],
+      "description": "Transient-модуль Xrack Pro.",
+      "source": "https://nuroaudio.com/pages/xrack-pro",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xrider",
+      "name": "Xrider",
+      "displayName": "Xrider",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "vocal",
+        "bass",
+        "instruments"
+      ],
+      "description": "Автоматическое выравнивание уровня сигнала.",
+      "source": "https://nuroaudio.com/pages/xrider",
+      "note": "",
+      "version": "1.5.1"
+    },
+    {
+      "key": "Xvox",
+      "name": "Xvox",
+      "displayName": "Xvox",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "eq",
+        "deess",
+        "verb",
+        "delay"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Вокальная multi-FX-цепочка для тона, динамики и пространства.",
+      "source": "https://nuroaudio.com/pages/xvox-pro",
+      "note": "",
+      "version": "1.1.3"
+    },
+    {
+      "key": "Xvox Comp",
+      "name": "Xvox Comp",
+      "displayName": "Xvox Comp",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "comp"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Вокальный компрессор из Xvox Pro.",
+      "source": "https://nuroaudio.com/pages/xvox-pro",
+      "note": "",
+      "version": "1.5.2"
+    },
+    {
+      "key": "Xvox DS",
+      "name": "Xvox DS",
+      "displayName": "Xvox DS",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "deess"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "De-esser из Xvox Pro.",
+      "source": "https://nuroaudio.com/pages/xvox-pro",
+      "note": "",
+      "version": "1.5.2"
+    },
+    {
+      "key": "Xvox Pro",
+      "name": "Xvox Pro",
+      "displayName": "Xvox Pro",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "strip",
+        "comp",
+        "eq",
+        "deess",
+        "verb",
+        "delay"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Вокальная multi-FX-цепочка для тона, динамики и пространства.",
+      "source": "https://nuroaudio.com/pages/xvox-pro",
+      "note": "",
+      "version": "1.5.2"
+    },
+    {
+      "key": "Xvox SFX",
+      "name": "Xvox SFX",
+      "displayName": "Xvox SFX",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "creative",
+        "pitch"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Creative vocal FX из Xvox Pro.",
+      "source": "https://nuroaudio.com/pages/xvox-pro",
+      "note": "",
+      "version": "1.5.2"
+    },
+    {
+      "key": "Xvox Space",
+      "name": "Xvox Space",
+      "displayName": "Xvox Space",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "verb",
+        "delay"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Пространственная обработка из Xvox Pro.",
+      "source": "https://nuroaudio.com/pages/xvox-pro",
+      "note": "",
+      "version": "1.5.2"
+    },
+    {
+      "key": "Xvox Tone",
+      "name": "Xvox Tone",
+      "displayName": "Xvox Tone",
+      "publisher": "Nuro Audio",
+      "manufacturer": "Nuro Audio",
+      "searchTerms": [
+        "Nuro Audio",
+        "Nuro Audio"
+      ],
+      "categories": [
+        "eq"
+      ],
+      "uses": [
+        "vocal"
+      ],
+      "description": "Тональная обработка из Xvox Pro.",
+      "source": "https://nuroaudio.com/pages/xvox-pro",
+      "note": "",
+      "version": "1.5.2"
+    },
+    {
+      "key": "ZENOLOGY",
+      "name": "ZENOLOGY",
+      "displayName": "ZENOLOGY",
+      "publisher": "Roland",
+      "manufacturer": "Roland",
+      "searchTerms": [
+        "Roland",
+        "Roland"
+      ],
+      "categories": [
+        "synth"
+      ],
+      "uses": [
+        "instruments",
+        "bass",
+        "drums"
+      ],
+      "description": "Инструментальный синтезатор Roland.",
+      "source": "https://www.roland.com/global/products/rc_zenology/",
+      "note": "",
+      "version": "2.0.7"
+    }
+  ],
+  "categories": {
+    "eq": "EQ",
+    "dyneq": "Динамический EQ / резонансы",
+    "comp": "Компрессоры",
+    "sat": "Сатурация / tape",
+    "verb": "Реверберация",
+    "delay": "Delay",
+    "mod": "Chorus / модуляция",
+    "dist": "Distortion",
+    "clip": "Клипперы",
+    "limit": "Лимитеры",
+    "sc": "Sidechain / unmasking",
+    "creative": "Creative FX",
+    "pitch": "Pitch / выравнивание",
+    "synth": "Синтезаторы / инструменты",
+    "monitor": "Мониторинг",
+    "restore": "Восстановление",
+    "transient": "Транзиенты",
+    "stereo": "Стерео / M/S",
+    "strip": "Цепочки / channel strip",
+    "deess": "De-esser",
+    "gate": "Gate / экспандер",
+    "utility": "Служебные"
+  },
+  "uses": {
+    "vocal": "Вокал",
+    "drums": "Барабаны",
+    "bass": "Бас",
+    "instruments": "Инструменты",
+    "bus": "Шины",
+    "master": "Мастер"
+  }
+}
