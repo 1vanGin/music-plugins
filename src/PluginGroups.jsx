@@ -1,20 +1,25 @@
-import { categories, pluginCount, primaryTypes, uses } from './catalog.js';
+import { categories, isInstrument, pluginCount, primaryTypes, useLabel } from './catalog.js';
 import Icon from './Icon.jsx';
 
-function PluginRow({ plugin, use, showPublisher, saved, onFavorite }) {
+function PluginRow({ plugin, use, category, showPublisher, showKind, saved, onFavorite }) {
+  const primary = plugin.categories[0];
   return (
     <li className="plugin" data-plugin={plugin.key}>
       <div className="plugin-content">
         <div className="plugin-heading">
           <h2>{plugin.displayName}</h2>
-          <span className="classification">{primaryTypes[plugin.categories[0]]}</span>
+          {showKind && !isInstrument(plugin) && <span className="classification">Обработка</span>}
+          <span className="classification">{primaryTypes[primary]}</span>
+          {category && category !== primary && (
+            <span className="classification classification-match">{primaryTypes[category]}</span>
+          )}
           {showPublisher && <span className="manufacturer">{plugin.publisher}</span>}
-          {plugin.version && <span className="classification">{plugin.version}</span>}
+          {plugin.version && <span className="classification plugin-version">{plugin.version}</span>}
         </div>
         <p className="description">{plugin.description}</p>
         <div className="uses" aria-label="Подходит для">
           {plugin.uses.map((key) => (
-            <span key={key} className={key === use ? 'matching' : undefined}>{uses[key]}</span>
+            <span key={key} className={key === use ? 'matching' : undefined}>{useLabel(key)}</span>
           ))}
         </div>
         {plugin.note && <p className="note"><b>Уточнение:</b> {plugin.note}</p>}
@@ -44,21 +49,23 @@ function PluginRow({ plugin, use, showPublisher, saved, onFavorite }) {
 }
 
 export default function PluginGroups({
-  hidden, mode, groups, favorites, use, favoritesEmpty, isOpen, onToggle, onFavorite, onReset,
+  hidden, mode, tab, groups, favorites, use, category, favoritesEmpty, isOpen, onToggle, onFavorite, onReset,
 }) {
+  const byCategory = mode === 'categories';
+  const library = mode === 'library';
   return (
-    <section id="groups" role="tabpanel" aria-labelledby={`${mode}Tab`} tabIndex={0} hidden={hidden}>
+    <section id="groups" role="tabpanel" aria-labelledby={`${tab}Tab`} tabIndex={0} hidden={hidden}>
       {groups.map(([key, items], index) => (
         <details key={`${mode}:${key}`} className="group" id={`group-${index}`} data-group={key} open={isOpen(key)}>
           <summary onClick={(event) => { event.preventDefault(); onToggle(key); }}>
             <span className="chevron"><Icon name="chevron" /></span>
-            <span>{mode === 'publishers' ? key : categories[key]}</span>
+            <span>{byCategory ? categories[key] : key}</span>
             <span className="group-count" aria-label={pluginCount(items.length)}>{items.length}</span>
           </summary>
           <ul className="plugin-list">
             {items.map((plugin) => (
-              <PluginRow key={plugin.key} plugin={plugin} showPublisher={mode === 'categories'}
-                use={use} saved={favorites.has(plugin.key)} onFavorite={onFavorite} />
+              <PluginRow key={plugin.key} plugin={plugin} showPublisher={byCategory || library} showKind={library}
+                use={use} category={byCategory ? key : category} saved={favorites.has(plugin.key)} onFavorite={onFavorite} />
             ))}
           </ul>
         </details>
@@ -66,7 +73,7 @@ export default function PluginGroups({
       {groups.length === 0 && (
         <div className="empty">
           <h2>{favoritesEmpty ? 'В избранном пока пусто' : 'Совпадений нет'}</h2>
-          <p>{favoritesEmpty ? 'Добавляй плагины звёздочкой рядом с названием.' : 'Попробуй другое слово или убери фильтр применения.'}</p>
+          <p>{favoritesEmpty ? 'Добавляй плагины звёздочкой рядом с названием.' : 'Попробуй изменить поиск или сбросить фильтры.'}</p>
           <button onClick={onReset}>Показать все плагины</button>
         </div>
       )}

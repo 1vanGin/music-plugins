@@ -1,3 +1,6 @@
+import { Fragment } from 'react';
+import { findChainPlugin } from './catalog.js';
+
 const stages = [
   ['Corrective EQ', 'Pro-Q 4', 'Pro-Q 4'],
   ['Color EQ', 'Michelangelo / Pultec EQP-1A / Maag EQ4', 'Michelangelo'],
@@ -66,19 +69,30 @@ const signalFlow = [
 export default function MasterChain({ hidden }) {
   return (
     <section id="masterChain" role="tabpanel" aria-labelledby="masterChainTab" tabIndex={0} hidden={hidden}>
-      <h2>Мастер-цепочка</h2>
+      <div className="chain-heading">
+        <h2>Мастер-цепочка</h2>
+        <a href="#chainTable">К таблице A/B ↓</a>
+      </div>
       <ol className="chain-flow" role="list" aria-label="Порядок обработки">
         {signalFlow.map(({ plugins, purpose, condition }, index) => (
           <li key={purpose}>
             {index > 0 && <span className="chain-flow__arrow" aria-hidden="true">↓</span>}
             <div className="chain-flow__card" data-optional={condition ? true : undefined}>
-              <strong>{plugins.join(' / ')}</strong>
+              <strong>{plugins.map((label, position) => {
+                const plugin = findChainPlugin(label);
+                return (
+                  <Fragment key={label}>
+                    {position > 0 && ' / '}
+                    {plugin ? <a href={`#plugin=${encodeURIComponent(plugin.key)}`}>{label}</a> : label}
+                  </Fragment>
+                );
+              })}</strong>
               <span>{purpose}{condition && ` · ${condition}`}</span>
             </div>
           </li>
         ))}
       </ol>
-      <table className="chain-table">
+      <table className="chain-table" id="chainTable" tabIndex={-1}>
         <thead>
           <tr>
             <th scope="col">Этап</th>
